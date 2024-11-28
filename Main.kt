@@ -1,6 +1,7 @@
 fun main(){
 
-    // Calculator app mr younes >>
+    // Calculator app mr younes >> 
+    // اولین ماشبن حساب من ساخته شده در سال 2019
 
     print("[-]Enter the first number :")
     val num1 = readln()!!.toDouble()
